@@ -1,23 +1,24 @@
 <a href="https://github.com/intbio/mm_hse_2023/blob/main/index.md"><img style="position: absolute; top: 0; right: 0; border: 0;" src="gitimg.png" alt="To GitHub"></a>
-# Molecular Modeling and Simulations (HSE) (Fall 2023)
+# Molecular Modeling and Simulations (HSE) (Fall 2024)
 
 ### Contact information
 - Instructor: Alexey K. Shaytan, PHD alex@intbio.org
-- Teaching assistants: Nikita Kosarim, Anastasiia Kniazeva
-- [Telegram link](https://t.me/+QfwfoKvpB21iMTEy)
+- Teaching assistants: Nikita Kosarim
+- [Telegram link](https://t.me/+hkL5Ys97zJE1ZTAy)
 - [Folder with presentations]()
-- [Home work folder](https://www.dropbox.com/request/PSyKaG2RNgJxzwlhsxx9)
+- [Home work folder](https://www.dropbox.com/request/9DsYh4Q8v1OX4tdzUH6b)
 
 ### Meetings and Location
 - Classroom:
   
 1 модуль: 
-12 и 19 сентября - D210
-с 26 сентября до 24 октября - D507
+10.09,17.09,24.09,1.10,8.10 - R610
+15.10 - R612
+22.10 - D210
 
 2 модуль: 
-7,14 и 21 ноября - D210
-с 28 ноября по 19 декабря - R610.
+5.11 - D207
+12.11,19.11,26.11,3.12,10.12,17.12 - D210
 
 - Lectures-Seminars: Fridays 18:10-21:00
 
@@ -59,7 +60,7 @@ The course provides an overview of molecular modeling and simulations methods in
  7. [Gromacs](https://www.gromacs.org) installed locally.
 
 ### Course calendar
-- Dates: 12/09/2023; 19/09/2023 ; 26/09/2023 ; 3/10/2023 ; 10/10/2021 ; 17/10/2021 ; 24/10/2023 (mid-term test) ; 7/11/2023 ; 14/11/2023 ; 21/11/2023 ; 28/11/2023 ; 5/12/2023 ; 12/12/2023 ; 19/12/2023;  
+- Dates: 10.09,17.09,24.09,1.10,8.10,15.10,22.10 (midterm test),5.11,12.11,19.11,26.11,3.12,10.12,17.12 (final test)
 
 ### Attendance policy
 - Attending lectures and seminars is strongly encouraged.
@@ -284,16 +285,16 @@ The course provides an overview of molecular modeling and simulations methods in
 
 Оценка по курсу кумулятивная.
 
-- Домашние работы  - 60% 
-- Промежуточная контрольная работа (24 октября 2023 - онлайн) - 20% оценки
-- Финальная контрольная работа или экзамен - 20%
+- Домашние работы  - 40% 
+- Промежуточная контрольная работа  - 30% оценки
+- Финальная контрольная работа или экзамен - 30%
 
 Каждый оценочный элемент содержит стандартную часть, которая оценивается по 8 бальной шкале и часть повышенной сложности, которая позволяет получить дополнительные два балла (для оценок 9 и 10).
 
 
 #### Домашние работы
 - Должны быть выполнены в течение двух недель с момента начала занятия, на котором работа была задана (18 часов 10 минут по вторникам).
-- Работы нужно загружать  [по ссылке](https://www.dropbox.com/request/PSyKaG2RNgJxzwlhsxx9) единым файлом (doc, pdf, zip). Имя файла: Asgmt_Number_Surname_Initials. Например, Asgmt_2_Petrov_AV.pdf
+- Работы нужно загружать  [по ссылке](https://www.dropbox.com/request/9DsYh4Q8v1OX4tdzUH6b) единым файлом (doc, pdf, zip). Имя файла: Asgmt_Number_Surname_Initials. Например, Asgmt_2_Petrov_AV.pdf
 - Домашние работы содержат стандартную часть (оценивются по шкале от 0 до 8) и задачи со звездочкой (можно получить дополнительные два балла).
 - Штраф за просрочку: 1 балл вычитается за каждую неделю просрочки (даже 1 день просрочки уже считается за неделю). 
 
