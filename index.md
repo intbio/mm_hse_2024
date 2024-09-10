@@ -1,4 +1,4 @@
-<a href="https://github.com/intbio/mm_hse_2023/blob/main/index.md"><img style="position: absolute; top: 0; right: 0; border: 0;" src="gitimg.png" alt="To GitHub"></a>
+<a href="https://github.com/intbio/mm_hse_2024/blob/main/index.md"><img style="position: absolute; top: 0; right: 0; border: 0;" src="gitimg.png" alt="To GitHub"></a>
 # Molecular Modeling and Simulations (HSE) (Fall 2024)
 
 ### Contact information
@@ -12,7 +12,7 @@
 - Classroom:
   
 1 модуль: 
-10.09,17.09,24.09,1.10,8.10 - R610
+10.09,17.09,24.09,1.10,8.10 - R611
 15.10 - R612
 22.10 - D210
 
